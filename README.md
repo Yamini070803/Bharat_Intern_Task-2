@@ -1,3 +1,3 @@
-# Bharat_Intern_Task-2
+# Bharat_Intern_Task-3
 
 Netflix clone using HTML , CSS.
